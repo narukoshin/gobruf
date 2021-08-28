@@ -7,16 +7,16 @@
   <li>Burn your fucking cheap laptop;</li>
   <li>If your target website server is cheap, that will burn too;</li>
   <li>If you have a good wordlist, there is a chance that you will find the password for the account (if you are not a script kiddie of course);</li>
-  <li>Dreaming about new router? Well, this tool will help you with that;</li>
+  <li>Dreaming about a new router? Well, this tool will help you with that;</li>
   <li>Wanna test how good is your internet provider? No problemo;</li>
-  <li>Want to increase the cost for electricity? This tool is the best;</li>
+  <li>Want to increase the cost of electricity? This tool is the best;</li>
  </ul>
  <b>Sooo, how you can see, this tool have so many usages like it is army knife</b><br>
- <b>One importanto momento, this tool is absolutely for free and I do not assume any responsability if this tool will fucking burn your fucking house</b>
+ <b>One importanto momento, this tool is absolutely for free and I do not assume any responsibility if this tool will fucking burn your fucking house</b>
  <br><br>
  <h3>How to build this fucking wonderful tool from the source?</h3>
  <hr>
- <b>Why you are asking so stupid questions? It is easier than never</b><br>
+ <b>Why you are asking so stupid questions? It is easier than ever had</b><br>
  <span>Just type this:</span>
  <pre>go build main.go</pre>
  <span>And we are done</span>
