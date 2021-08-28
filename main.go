@@ -124,7 +124,7 @@ func (a Attack) StartAttack(){
 
 	// Setting necessary headers for successful request
 	// User-Agent
-	req.Header.Set("User-Agent", "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1; en-MT) AppleWebKit/602.3.3 (KHTML, like Gecko) Version/12.0.2 Safari/602.3.3")
+	req.Header.Set("User-Agent", "Mozilla/5.0 (Fucking Macintosh; Intel Mac OS X 10_10_1; en-MT) AppleWebKit/602.3.3 (KHTML, like Gecko) Version/12.0.2 Safari/602.3.3")
 
 	// Content-Type
 	req.Header.Set("Content-Type", "application/x-www-form-urlencoded;charset=utf-8")
